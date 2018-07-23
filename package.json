@@ -1,0 +1,28 @@
+{
+  "name": "node_facebook_passportjs",
+  "version": "1.0.0",
+  "description": "This is for authentication of facebook",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmdroh/node_facebook_passportjs.git"
+  },
+  "author": "hamed rohani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmdroh/node_facebook_passportjs/issues"
+  },
+  "homepage": "https://github.com/hmdroh/node_facebook_passportjs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0"
+  }
+}
