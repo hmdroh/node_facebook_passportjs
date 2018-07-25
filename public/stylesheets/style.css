@@ -1,0 +1,33 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.profileImg{
+  float: left;
+}
+.profileName{
+  float: left;
+}
+.facebook{
+  float: left;
+  padding: 20px;
+  font-size: 2em;
+  border: 1px solid gray;
+  background-color: white;
+  color: #00B7FF;
+  text-decoration: none;
+}
+.facebook:hover{
+  background-color: #00B7FF;
+  color: white;
+}
+.title{
+  clear: both;
+  font-size: 2.2em;
+  margin-bottom: 20px;
+  font-weight: 900;
+}
